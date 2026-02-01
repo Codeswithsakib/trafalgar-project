@@ -1,0 +1,470 @@
+/* Extra small devices (portrait phones, less than 576px) */
+@media (max-width: 575.98px) {
+
+    /* header start  */
+    .nav_item {
+        margin-bottom: 10px;
+        margin-left: 20px;
+    }
+
+    .nav_img {
+        margin-bottom: 10px;
+    }
+
+    /* banner start  */
+    .banner {
+        padding-bottom: 60px;
+    }
+
+    .b_text {
+        text-align: center;
+        margin-right: 0px;
+    }
+
+    .b_img img {
+        width: 300px;
+    }
+
+    .b_img img {
+        margin-bottom: 30px;
+    }
+
+    .b_text h1 {
+        font-size: 35px;
+    }
+
+    .b_text p {
+        font-size: 20px;
+    }
+    .b_btn{
+        margin: auto;
+    }
+
+    /* service start  */
+    .s_p {
+        margin-top: 30px;
+    }
+
+    .s_item {
+        padding: 0;
+        text-align: center;
+    }
+    
+    /* feature1 start  */
+    .feature1 {
+        padding-top: 0px;
+    }
+
+    .f1_img img {
+        width: 285px;
+    }
+
+    .f1_text {
+        padding: 0px 0px;
+        text-align: center;
+    }
+
+    .f1_text h1 {
+        font-size: 20px;
+    }
+
+    .f1_img {
+        text-align: center;
+    }
+
+    .f1_text p {
+        font-size: 16px;
+        margin: 20px 0 20px;
+    }
+
+    .f1_btn {}
+
+    /* feature2 start  */
+    .f2_img img {
+        width: 285px;
+    }
+
+    .f2_text {
+        padding: 0px 0px;
+        text-align: center;
+    }
+
+    .f2_text h1 {
+        font-size: 20px;
+    }
+
+    .f2_img {
+        text-align: center;
+    }
+
+    .f2_text p {
+        font-size: 16px;
+        margin: 20px 0 20px;
+    }
+
+    .f2_btn {
+    }
+
+    /* feedback start  */
+    .f_h1 {
+        text-align: center;
+        font-size: 34px;
+    }
+
+    .f_img {
+        width: 150px;
+    }
+
+    .f_item {
+        text-align: center;
+    }
+
+    .fd_p {
+        margin-top: -10px;
+    }
+
+    .f_text {
+        padding: 0;
+    }
+
+    /* article start  */
+    .a_h1 {
+        font-size: 30px;
+        padding-bottom: 15px;
+    }
+
+    .a_btn {
+        padding: 50px 0 80px;
+    }
+
+    /* footer start     */
+
+    .footer_text {
+        text-align: center;
+    }
+
+    .footer_box {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .footer {
+        padding: 50px 0 50px;
+    }
+
+    .footer_text p {
+        font-size: 15px;
+    }
+
+    footer_ul li a {
+        font-size: 15px;
+    }
+}
+
+
+/* Small devices (landscape phones, 576px and up) */
+@media (min-width: 576px) and (max-width: 767.98px) {
+
+    /* header start  */
+    .nav_item {
+        margin-bottom: 10px;
+    }
+
+    .nav_img {
+        margin-bottom: 10px;
+    }
+
+    /* banner start  */
+    .banner {
+        padding-bottom: 70px;
+    }
+
+    .b_text {
+        text-align: center;
+        margin-right: 0px;
+    }
+
+    .b_img img {
+        width: 515px;
+    }
+
+    .b_img img {
+        margin-bottom: 50px;
+    }
+    .b_btn {
+    margin: auto;
+    }
+
+    /* service start  */
+    .s_p {
+        margin-top: 40px;
+    }
+
+    .s_item {
+        padding: 0 20px;
+    }
+
+    /* feature1 start  */
+    .feature1 {
+        padding-top: 0px;
+    }
+
+    .f1_img img {
+        width: 420px;
+    }
+
+    .f1_text {
+        padding: 0px 20px;
+        text-align: center;
+    }
+
+    .f1_text h1 {
+        font-size: 30px;
+    }
+
+    .f1_img {
+        text-align: center;
+    }
+
+    .f1_text p {
+        margin: 25px 0 25px;
+    }
+
+    .f1_btn {
+    }
+
+    /* feature2 start  */
+    .f2_img img {
+        width: 420px;
+    }
+
+    .f2_text {
+        padding: 0px 20px;
+        text-align: center;
+    }
+
+    .f2_text h1 {
+        font-size: 30px;
+    }
+
+    .f2_img {
+        text-align: center;
+    }
+
+    .f2_text p {
+        margin: 25px 0 25px;
+    }
+
+    .f2_btn {
+    }
+
+    /* feedback start  */
+    .f_h1 {
+        font-size: 26px;
+    }
+
+    .f_img {
+        width: 250px;
+    }
+
+    .f_item {
+        text-align: center;
+    }
+
+    .fd_p {
+        margin-top: -10px;
+    }
+
+    /* article start  */
+    .a_btn {
+        padding: 50px 0 80px;
+    }
+
+    /* footer start     */
+
+    .footer_text {
+        text-align: center;
+    }
+
+    .footer_box {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+    .footer {
+        padding: 80px 0 80px;
+    }
+}
+
+
+/* Medium devices (tablets, 768px and up) */
+@media (min-width: 768px) and (max-width: 991.98px) {
+
+    /* header start  */
+    .nav_item {
+        margin-bottom: 15px;
+    }
+
+    .nav_img {
+        margin-bottom: 15px;
+    }
+
+    /* banner start  */
+    .banner {
+        padding-bottom: 80px;
+    }
+
+    .b_text {
+        text-align: center;
+        margin-right: 0px;
+    }
+
+    .b_img img {
+        width: 545px;
+    }
+
+    .b_img img {
+        margin-bottom: 50px;
+    }
+    .b_btn {
+    margin: auto;
+    }
+
+    /* feature1 start  */
+    .f1_img img {
+        width: 550px;
+    }
+
+    .f1_text {
+        padding: 0px 20px;
+        text-align: center;
+    }
+
+    .f1_img {
+        text-align: center;
+    }
+
+    .f1_text p {
+        margin: 40px 0 40px;
+    }
+
+    .f1_btn {
+    }
+
+    /* feature2 start  */
+    .f2_img img {
+        width: 550px;
+    }
+
+    .f2_text {
+        padding: 0px 20px;
+        text-align: center;
+    }
+
+    .f2_img {
+        text-align: center;
+    }
+
+    .f2_text p {
+        margin: 40px 0 40px;
+    }
+
+    .f2_btn {
+    }
+
+    /* feedback start  */
+    .f_h1 {
+        font-size: 35px;
+    }
+
+    .f_img {
+        width: 250px;
+    }
+
+    .f_item {
+        text-align: center;
+    }
+
+    .fd_p {
+        margin-top: -10px;
+    }
+
+    /* footer start     */
+    .footer_text {
+        text-align: center;
+    }
+
+    .footer_box {
+        margin-left: 0px;
+        text-align: center;
+    }
+
+}
+
+
+/* Large devices (desktops, 992px and up) */
+@media (min-width: 992px) and (max-width: 1199.98px) {
+
+    /* banner start  */
+    .b_text {
+        margin-right: 0px;
+    }
+
+    .b_img img {
+        width: 545px;
+    }
+
+    /* feature1 start  */
+    .f1_img img {
+        width: 550px;
+    }
+
+    .f1_text {
+        padding: 0px 20px;
+    }
+
+    /* feature2 start  */
+    .f2_img img {
+        width: 550px;
+    }
+
+    .f2_text {
+        padding: 0px 20px;
+    }
+
+    /* feedback start  */
+    .fd_h1 {
+        font-size: 21px;
+    }
+
+    .f_text {
+        padding: 0px 55px;
+    }
+
+    /* footer start  */
+    .footer_box {
+        margin-left: 65px;
+    }
+}
+
+
+/* Extra large devices (large desktops, 1200px and up) */
+@media (min-width: 1200px) and (max-width: 1399.98px) {
+
+    /* banner start  */
+    .b_text {
+        margin-right: 30px;
+    }
+
+    .b_img img {
+        width: 640px;
+    }
+
+    /* service start  */
+    /* feature2 start  */
+
+
+}
+
+/* Extra extra large devices (large desktops, 1400px and up) */
+@media (min-width: 1400px) {}
